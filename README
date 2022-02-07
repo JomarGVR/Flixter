@@ -26,8 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 
-<img src="file:///private/var/folders/1r/wr1wmbgj2d3g1b9ly1df10m00000gn/T/47c886e9ccc9fcc975e528a1defdabfd/Kapture%202022-02-07%20at%2013.05.40.gif width=250><br>
-
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:125.38%;position:relative;"><iframe width="260" height="326" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/64an3t"></iframe></div><p><a href="https://imgflip.com/gif/64an3t">via Imgflip</a></p></div>
 ### Notes
 I had problems with the roatatign becuase the app was not in rotate mode. Also I had problems with the overview. 
 
